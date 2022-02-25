@@ -1,0 +1,12 @@
+font-size	family		weight
+50px 		raleway		semibold
+50px		play		bold
+35px 		play		regular
+26px		play		regular
+24px		play		regular
+20px		play		bold
+14px		opensans	bold
+14px		opensans	regular
+14px		play		regular
+
+
